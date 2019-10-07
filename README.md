@@ -15,3 +15,20 @@ A collection of useful documents related to coding, program design, and helpful 
 1. [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
 
 ---
+
+## Ruby
+
+1. [Rubygems Pattern Guide](https://guides.rubygems.org/patterns/)
+2. [Start-up Guide](https://guides.rubygems.org/patterns/) - A quick start guide for getting a new project set up for ruby
+
+---
+
+## Git
+
+1. [Commit Message Structure](https://www.conventionalcommits.org/en/v1.0.0/)
+
+--
+
+## Bash
+
+1. [Keyboard Shortcuts](https://www.techrepublic.com/article/keyboard-shortcuts-in-bash-and-zsh/) - Useful shortcuts for bash, zsh, csh, etc
