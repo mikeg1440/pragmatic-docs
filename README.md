@@ -20,6 +20,7 @@ A collection of useful documents related to coding, program design, and helpful 
 
 1. [Rubygems Pattern Guide](https://guides.rubygems.org/patterns/)
 2. [Start-up Guide](https://guides.rubygems.org/patterns/) - A quick start guide for getting a new project set up for ruby
+3. [HereDoc Reference](https://en.wikipedia.org/wiki/Here_document#Ruby) - HereDoc reference and usage.
 
 ---
 
