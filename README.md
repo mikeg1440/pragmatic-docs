@@ -21,6 +21,22 @@ A collection of useful documents related to coding, program design, and helpful 
   -  [Rubygems Pattern Guide](https://guides.rubygems.org/patterns/)
   -  [Start-up Guide](https://guides.rubygems.org/patterns/) - A quick start guide for getting a new project set up for ruby
   -  [HereDoc Reference](https://en.wikipedia.org/wiki/Here_document#Ruby) - HereDoc reference and usage.
+  - ###### Sinatra
+    - [Sinatra Basics](https://medium.com/swlh/breaking-down-a-sinatra-application-18d158ab80ea)
+    - [Sinatra App Structure](https://flatironschool.com/blog/how-to-build-a-sinatra-web-app-in-10-steps)
+    - [Corneal Gem](https://github.com/thebrianemory/corneal)
+  - ###### Rake
+    - [Writing Rake Files](https://www.stuartellis.name/articles/rake/#writing-rake-files)
+    - [Managing Files & Directories with Rake](https://www.stuartellis.name/articles/rake/#managing-files-and-directories-with-rake)
+  - ###### Active Record
+    - [CRUD Reading & Writing](https://guides.rubyonrails.org/active_record_basics.html#crud-reading-and-writing-data)
+    - [Querying Interface](https://guides.rubyonrails.org/active_record_querying.html)
+    - [Naming Conventions](https://guides.rubyonrails.org/active_record_basics.html#naming-conventions)
+    - [Migrations](https://guides.rubyonrails.org/active_record_basics.html#migrations)
+    - [Cheatsheet](https://gist.github.com/amejiarosario/2950888)
+    - [MVC](https://medium.com/@salmaeng71/sinatra-todo-application-with-mvc-85f2997f2d17)
+      - [Models](http://recipes.sinatrarb.com/p/models/active_record?#article)
+
 
 ## Git
 
