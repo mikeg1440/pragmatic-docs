@@ -5,30 +5,32 @@ A collection of useful documents related to coding, program design, and helpful 
 
 ## Atom Text Editor
 
-1. [Shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
-2. [Awesome Atom](https://github.com/mehcode/awesome-atom) - A curated list of Atom packages and themes.
-3. [Default Shortcuts](https://github.com/Zagonine/atom-shortcuts)
----
+- [Shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
+- [Awesome Atom](https://github.com/mehcode/awesome-atom) - A curated list of Atom packages and themes.
+- [Default Shortcuts](https://github.com/Zagonine/atom-shortcuts)
+
 
 ## Markdown
 
-1. [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
+- [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
 
----
 
-## Ruby
 
-1. [Rubygems Pattern Guide](https://guides.rubygems.org/patterns/)
-2. [Start-up Guide](https://guides.rubygems.org/patterns/) - A quick start guide for getting a new project set up for ruby
-3. [HereDoc Reference](https://en.wikipedia.org/wiki/Here_document#Ruby) - HereDoc reference and usage.
+  ## Ruby
 
----
+  -  [Rubygems Pattern Guide](https://guides.rubygems.org/patterns/)
+  -  [Start-up Guide](https://guides.rubygems.org/patterns/) - A quick start guide for getting a new project set up for ruby
+  -  [HereDoc Reference](https://en.wikipedia.org/wiki/Here_document#Ruby) - HereDoc reference and usage.
 
 ## Git
 
-1. [Commit Message Structure](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Commit Message Structure](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Undoing Changes](https://www.atlassian.com/git/tutorials/undoing-changes)
+- [Syncing Changes](https://www.atlassian.com/git/tutorials/syncing)
+- [Using Branches](https://www.atlassian.com/git/tutorials/using-branches)
+- [Advanced Usage](https://www.atlassian.com/git/tutorials/advanced-overview)
 
---
+
 
 ## Bash
 
