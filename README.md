@@ -25,6 +25,8 @@ A collection of useful documents related to coding, program design, and helpful 
     - [Sinatra Basics](https://medium.com/swlh/breaking-down-a-sinatra-application-18d158ab80ea)
     - [Sinatra App Structure](https://flatironschool.com/blog/how-to-build-a-sinatra-web-app-in-10-steps)
     - [Corneal Gem](https://github.com/thebrianemory/corneal)
+    - [Sessions](http://webapps-for-beginners.rubymonstas.org/sessions/sinatra_sessions.html)
+    - [RESTful Routes](https://learn.co/tracks/online-software-engineering-structured/sinatra/activerecord/sinatra-restful-routes)
   - ###### Rake
     - [Writing Rake Files](https://www.stuartellis.name/articles/rake/#writing-rake-files)
     - [Managing Files & Directories with Rake](https://www.stuartellis.name/articles/rake/#managing-files-and-directories-with-rake)
