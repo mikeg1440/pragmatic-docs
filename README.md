@@ -36,8 +36,15 @@ A collection of useful documents related to coding, program design, and helpful 
     - [Naming Conventions](https://guides.rubyonrails.org/active_record_basics.html#naming-conventions)
     - [Migrations](https://guides.rubyonrails.org/active_record_basics.html#migrations)
     - [Cheatsheet](https://gist.github.com/amejiarosario/2950888)
-    - [MVC](https://medium.com/@salmaeng71/sinatra-todo-application-with-mvc-85f2997f2d17)
+    - [MVC](https://medium.com/@salmaeng71/sinatra-todo-application-with-mvc-85f2997f2d17) / [Simple Example](https://www.sitepoint.com/build-a-sinatra-mvc-framework/)
       - [Models](http://recipes.sinatrarb.com/p/models/active_record?#article)
+      - [Views](https://www.rubyguides.com/2019/04/rails-render/)
+      - [Controllers](https://learn.co/lessons/sinatra-multiple-controllers)
+  - ###### Rails
+    - [Official Documentation](https://guides.rubyonrails.org/)
+    - [Generators](https://medium.com/@jelaniwoods/ruby-on-rails-generators-91bdebc4ca6d)
+    - [Generator Cheatsheet](https://dev.to/alicannklc/rails-generator-cheatsheet-1dfn)
+    - [Routing Explained](https://medium.com/rubyinside/a-deep-dive-into-routing-and-controller-dispatch-in-rails-8bf58c2cf3b5)
 
 
 ## Git
