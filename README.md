@@ -4,6 +4,11 @@ A collection of useful documents related to coding, program design, and helpful 
 ![Image](https://i.pinimg.com/originals/d7/9f/87/d79f8738e3338455eff509523cc8bcb5.png)
 
 ## Contents
+ - [ ] [Atom Text Editor](#atom-text-editor)
+ - [ ] [Markdown](#markdown)
+ - [ ] [Ruby](#Ruby)
+ - [ ] [Ruby-Rails](#rails)
+ - [ ] [Git](#git)
  - [ ] [Bash](#bash)
 
 ## Atom Text Editor
