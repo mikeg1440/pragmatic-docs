@@ -3,6 +3,9 @@ A collection of useful documents related to coding, program design, and helpful 
 
 ![Image](https://i.pinimg.com/originals/d7/9f/87/d79f8738e3338455eff509523cc8bcb5.png)
 
+## Contents
+ - [ ] [Bash](#bash)
+
 ## Atom Text Editor
 
 - [Shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
