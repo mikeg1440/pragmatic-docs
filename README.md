@@ -21,16 +21,16 @@ A collection of useful documents related to coding, program design, and helpful 
   -  [Rubygems Pattern Guide](https://guides.rubygems.org/patterns/)
   -  [Start-up Guide](https://guides.rubygems.org/patterns/) - A quick start guide for getting a new project set up for ruby
   -  [HereDoc Reference](https://en.wikipedia.org/wiki/Here_document#Ruby) - HereDoc reference and usage.
-  - ###### Sinatra
+  - #### Sinatra
     - [Sinatra Basics](https://medium.com/swlh/breaking-down-a-sinatra-application-18d158ab80ea)
     - [Sinatra App Structure](https://flatironschool.com/blog/how-to-build-a-sinatra-web-app-in-10-steps)
     - [Corneal Gem](https://github.com/thebrianemory/corneal)
     - [Sessions](http://webapps-for-beginners.rubymonstas.org/sessions/sinatra_sessions.html)
     - [RESTful Routes](https://learn.co/tracks/online-software-engineering-structured/sinatra/activerecord/sinatra-restful-routes)
-  - ###### Rake
+  - #### Rake
     - [Writing Rake Files](https://www.stuartellis.name/articles/rake/#writing-rake-files)
     - [Managing Files & Directories with Rake](https://www.stuartellis.name/articles/rake/#managing-files-and-directories-with-rake)
-  - ###### Active Record
+  - #### Active Record
     - [CRUD Reading & Writing](https://guides.rubyonrails.org/active_record_basics.html#crud-reading-and-writing-data)
     - [Querying Interface](https://guides.rubyonrails.org/active_record_querying.html)
     - [Naming Conventions](https://guides.rubyonrails.org/active_record_basics.html#naming-conventions)
@@ -40,12 +40,16 @@ A collection of useful documents related to coding, program design, and helpful 
       - [Models](http://recipes.sinatrarb.com/p/models/active_record?#article)
       - [Views](https://www.rubyguides.com/2019/04/rails-render/)
       - [Controllers](https://learn.co/lessons/sinatra-multiple-controllers)
-  - ###### Rails
+  - #### Rails
     - [Official Documentation](https://guides.rubyonrails.org/)
     - [Generators](https://medium.com/@jelaniwoods/ruby-on-rails-generators-91bdebc4ca6d)
     - [Generator Cheatsheet](https://dev.to/alicannklc/rails-generator-cheatsheet-1dfn)
     - [Routing Explained](https://medium.com/rubyinside/a-deep-dive-into-routing-and-controller-dispatch-in-rails-8bf58c2cf3b5)
-
+    - ###### Rails Gems
+     - [Devise](https://github.com/plataformatec/devise)
+     - [Devise Cheatsheet](https://devhints.io/devise)
+     - [dotenv-rails](https://github.com/bkeepers/dotenv)
+     - [bcrypt](https://github.com/codahale/bcrypt-ruby)
 
 ## Git
 
